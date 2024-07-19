@@ -1,6 +1,5 @@
 import pygame
 import math
-from .wall import Wall
 
 class Car:
     def __init__(self, x, y, img, height, width, walls, color):
