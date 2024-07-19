@@ -1,5 +1,5 @@
-from .car import Car
-from .wall import Wall
+from car import Car
+from wall import Wall
 import pygame, math
 import random
 pygame.init()
